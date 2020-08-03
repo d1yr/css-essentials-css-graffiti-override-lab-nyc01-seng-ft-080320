@@ -8,12 +8,12 @@
 #wall #tag-3 {
   display: none;
 }
-#wall .parent {
+#wall.parent {
   display: none;
 }
-.parent #tag-4 {
+.parent#tag-4 {
   display: none;
 }
-#wall .parent #tag-5 .slick {
+#wall.parent#tag-5 .slick {
   display: none;
 }
